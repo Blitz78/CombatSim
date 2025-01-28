@@ -1,5 +1,4 @@
 # CombatSim
-Python Code where you can execute a simple combat simulation 
 
 Combat Sim is a bit of Python Code inspired by Dungeons & Dragons where a user can enter the name of their character and the character's race then proceeding to run a simulation on if those two characters fought. 
 
